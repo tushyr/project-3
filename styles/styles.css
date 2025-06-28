@@ -1,0 +1,107 @@
+#headline1 {color: darkred;font-family: Verdana; font-size: 22px;text-align: center;}
+.rel ul, li {color: #800080; font-family: Verdana; font-size: 18px;}
+#gamepage {background-color: #121212;}
+#whygaming{color:lightcoral; text-align: center; font-family: Verdana; font-size: 20px;}
+.reason {color: #800080; text-align: center; font-family: Verdana; font-size: 18px;}
+#favgames {color: lightcoral ; text-align: center; font-family: Verdana; font-size: 18px;}
+.rdr2 {color: red; font-family:  Verdana; font-size: 18px;}
+.gow{color: rgb(250, 2, 250); font-family:Verdana; font-size: 18px;}
+.tlou2 {color: rgb(0, 255, 0); font-family: Verdana; font-size: 18px;}
+#links {color: lightcoral; text-align: center; font-family: Verdana; font-size: 18px;}
+.page-gif {
+  display: block;         /* Center align */
+  margin: 20px auto;      /* Add spacing around */
+  max-width: 100%;        /* Responsive */
+  height: auto;           /* Maintain aspect ratio */
+  border-radius: 10px;    /* Optional: Soft corners */
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.6);  /* Optional: Gaming glow effect */
+}
+.gg{text-align: center;}
+.og{text-align: center;}
+.hmm{text-align: center;}
+#firstpage{
+    background-color: #000000;}
+#about {
+    color: #800080;
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+}    
+.aboutme {
+    color: #800080;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}#favs {
+    color: #4b2004;
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+}
+.wolf-jpeg {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;  /* Not full 100%, leaves room for margins */
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+#hobbypage {
+    background-color: #121212;
+}
+#hobbyhead {
+    color: #ddd7dd;
+    font-family: Verdana;
+    font-size: 20px;
+    text-align: center;
+}
+.whyone{color: yellow;font-family: Verdana;font-size: 20px;}
+.Whytwo{color: yellow;font-family: Verdana;font-size: 25px;}
+.whythree{color: yellow;font-family: Verdana;font-size: 25px;}
+.why{text-align: center;}
+.hobbt-text {
+    color: #ddd7dd;
+    font-family: Verdana;
+    font-size: 18px;
+    text-align: center;
+}
+.hobbt-text {
+    color: #ddd7dd; /* Red color for emphasis */
+}
+i.lonely {
+    color: #ec0eec; /* Red color for emphasis */
+    font-style: italic; /* Italic style for emphasis */
+}
+.center{
+    text-align: center; /* Center align text */
+    font-family: Verdana; /* Use Verdana font */
+    font-size: 18px; /* Set font size */
+    color: #ddd7dd; /* Set text color */
+}
+#moviepage {
+    background-color: #121212; /* Dark background for the movie page */
+}
+.font-one {
+    color: #ddd7dd; /* Light color for text */
+    font-family: Verdana; /* Use Verdana font */
+    font-size: 18px; /* Set font size */
+    text-align: center; /* Center align text */
+}
+
+#aqatf {color: #cccccc;}
+.movie-poster {
+    display: block; /* Center align */
+    margin: 20px auto; /* Add spacing around */
+    max-width: 100%; /* Responsive */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: Soft corners */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.6); /* Optional: Glow effect */
+}
+.movie-description {
+  color: #cccccc;      /* Light Gray for softness */
+  font-size: 18px;     /* Easy to read */
+  line-height: 1.6;    /* Better spacing between lines */
+  margin-bottom: 20px; /* Space below paragraph */
+}
+#itw{color: #cccccc;}
+.end{color:#ec0eec; font-family: Verdana; font-size: 20px; text-align: center;}
